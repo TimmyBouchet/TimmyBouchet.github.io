@@ -1,0 +1,33 @@
+body {
+	font-size: 14;
+	color: black;
+	background-color: #ffd5c9;
+}
+h1 {
+	color: black;
+	background-color:#CC9404;
+	font-size:3em;
+	text-align: center;
+	letter-spacing: .9em;
+	font-weight:900;
+	text-transform:uppercase;
+
+	margin-top: 40px;
+	margin-left:100px;
+	margin-right:100px;
+	padding-top:20px;
+	padding-bottom: 20px;
+
+}
+h2{
+	text-align: center; 
+	background-color:white;
+}
+h3{
+	background-color: white;
+	text-align: center;
+}
+p{
+	background-color: white;
+	text-align:center;
+}
